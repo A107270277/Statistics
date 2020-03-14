@@ -1,2 +1,2 @@
-# Statistics
+# Statisti
 統計學
