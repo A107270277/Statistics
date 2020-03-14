@@ -1,2 +1,2 @@
-Statistics
-統計學
+#Statistics
+統計
